@@ -1,0 +1,17 @@
+Cheat:
+-launch cheat before game, menu will show on desktop after some seconds
+-INSERT Key = open Menu, use arrow keys to navigate
+-F9 Terminate Cheat
+
+needed settings:
+-Fullscreen window (Boderless Fullscreen)
+
+menu navigation not working properly
+-start disable_UAC and restart pc after
+
+
+Admin needed, rightclick "start as admin"
+
+Failed 3: Battleye/EAC/Vanguard is running
+Failed 2: -
+Failed 1 / Asking for a restart every time: uninstall antivirus/ESEA/FACE-IT AC disable Windowsdefender
